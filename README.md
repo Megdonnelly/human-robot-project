@@ -1,6 +1,7 @@
 # human-robot-project
 An experiment based on Unity environment.
-    Assignments:
+
+Assignments:
 1. Introduction 
 2. Literature review 
 3. Method 
